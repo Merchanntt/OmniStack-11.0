@@ -63,6 +63,9 @@ form textarea {
     filter: brightness(90%);
 }
 
+.back-link svg{
+    margin-right: 8px;
+}
 
 .back-link {
     display: flex;
