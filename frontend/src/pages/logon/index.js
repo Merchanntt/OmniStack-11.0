@@ -21,7 +21,7 @@ export default function logon(){
 
                     <Link className="back-link"to="/register">
             
-                        Não tenho cadastro
+                    ◾️ Não tenho cadastro
                     </Link>
                 </form>
 
